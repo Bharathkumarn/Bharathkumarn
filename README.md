@@ -1,4 +1,4 @@
-👋 ## Hey, *Bharath Kumar Nagaraju* here   
+## Hey👋, *Bharath Kumar Nagaraju* here   
 
 Contact me: [![Linkedin Badge](https://img.shields.io/badge/-Bharath%20Kumar%20Nagaraju-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharath-kumar-nagaraju-6545511a1/)](https://www.linkedin.com/in/bharath-kumar-nagaraju-6545511a1/)
 [![Gmail Badge](https://img.shields.io/badge/-bharathkumarnagaraju9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bharathkumarnagaraju9@gmail.com)](mailto:bharathkumarnagaraju9@gmail.com)
