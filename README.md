@@ -7,7 +7,7 @@ Contact me: [![Linkedin Badge](https://img.shields.io/badge/-Bharath%20Kumar%20N
 
 
 
-👀 I’m an MSc Data Science grad with 5+ years of experience in the data domain and a strong foundation in cloud technologies. Driven and goal-oriented professional with a passion for the Data Industry.
+👀 I’m an MSc Data Science grad with 6+ years of experience in the data domain and a strong foundation in cloud technologies. Driven and goal-oriented professional with a passion for the Data Industry.
 I am recognized as a dependable team player with strong critical thinking, creativity, time management, and leadership skills.
 
 🌱 I’m currently leading data engineering initiatives at WMS in Aldi Muelheim.
